@@ -1,4 +1,6 @@
 ### Hi there 👋
+  
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/ryanhanwu/) [![Stackoverflow](https://img.shields.io/badge/stack-overflow-orange)](https://stackoverflow.com/users/471840/ryan-wu)
 
 <!--
 **ryanhanwu/ryanhanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
