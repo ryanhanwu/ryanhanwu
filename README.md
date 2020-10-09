@@ -1,7 +1,9 @@
 ### Hi there 👋
-  
-[![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/ryanhanwu/) [![Stackoverflow](https://img.shields.io/badge/stack-overflow-orange)](https://stackoverflow.com/users/471840/ryan-wu)
 
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/ryanhanwu/) 
+[![Stackoverflow](https://img.shields.io/badge/stack-overflow-orange)](https://stackoverflow.com/users/471840/ryan-wu)
+[![Professional Scrum Master](https://img.shields.io/badge/PSM-I-blue)](https://www.scrum.org/user/728932) 
+ 
 <!--
 **ryanhanwu/ryanhanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
