@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/ryanhanwu/) 
-[![Stackoverflow](https://img.shields.io/badge/stack-overflow-orange)](https://stackoverflow.com/users/471840/ryan-wu)
+[![Stackoverflow](https://img.shields.io/badge/Stack-Overflow-orange)](https://stackoverflow.com/users/471840/ryan-wu)
 [![Professional Scrum Master](https://img.shields.io/badge/PSM-I-blue)](https://www.scrum.org/user/728932) 
  
 <!--
