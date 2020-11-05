@@ -1,6 +1,6 @@
 An Open-Source lover and passionate technical leader.
 
-[![LinkedIn](https://img.shields.io/badge/my-LinkedIn-blue)](https://www.linkedin.com/in/ryanhanwu/) 
+[![LinkedIn](https://img.shields.io/badge/my-LinkedIn-blue)](http://bit.ly/rwu_linkedin) 
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/471840?color=orange&label=StackOverFlow)](http://bit.ly/ryan-sof)
 [![TechStack](https://img.shields.io/badge/Tech-Stack-brightgreen)](https://bit.ly/ryan-stack) 
 [![Professional Scrum Master](https://img.shields.io/badge/Scrum.org-PSM_I-blue)](http://bit.ly/ryan_scrum) 
