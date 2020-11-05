@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/ryanhanwu/) 
-[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/471840?color=orange&label=StackOverFlow)](http://bit.ly/ryan-sof)
-[![Professional Scrum Master](https://img.shields.io/badge/Scrum.org-PSM_I-blue)](http://bit.ly/ryan_scrum) 
+
+### Other me:
+- [![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/ryanhanwu/) 
+- [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/471840)](http://bit.ly/ryan-sof)
+- [![Professional Scrum Master](https://img.shields.io/badge/Scrum.org-PSM_I-blue)](http://bit.ly/ryan_scrum) 
  
 <!--
 **ryanhanwu/ryanhanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
