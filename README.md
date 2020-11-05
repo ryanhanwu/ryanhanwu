@@ -1,13 +1,15 @@
-### Hi there 👋
+An Open-Source lover and passionate technical leader.
 
 
-### Other me:
+### You can find me on:
 - [![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/ryanhanwu/) 
 - [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/471840)](http://bit.ly/ryan-sof)
+
 - [![Professional Scrum Master](https://img.shields.io/badge/Scrum.org-PSM_I-blue)](http://bit.ly/ryan_scrum) 
  
 <!--
 **ryanhanwu/ryanhanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://managerreadme.com/readme/ryanhanwu/rv3egu
 
 Here are some ideas to get you started:
 
