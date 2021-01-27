@@ -4,6 +4,8 @@ An open-source developer and passionate technical & business leader.
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/471840?color=orange&label=StackOverFlow)](http://bit.ly/ryan-sof)
 [![TechStack](https://img.shields.io/badge/Tech-Stack-brightgreen)](https://bit.ly/ryan-stack) 
 [![Professional Scrum Master](https://img.shields.io/badge/Scrum.org-PSM_I-blue)](http://bit.ly/ryan_scrum) 
+
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhanwu&hide=contribs,prs)
 <!--
 **ryanhanwu/ryanhanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://managerreadme.com/readme/ryanhanwu/rv3egu
