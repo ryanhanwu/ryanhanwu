@@ -1,4 +1,4 @@
-An open-source developer and passionate technical & business leader.
+An open-source developer and passionate technical leader.
 
 [![LinkedIn](https://img.shields.io/badge/my-LinkedIn-blue)](http://bit.ly/rwu_linkedin) 
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/471840?color=orange&label=StackOverFlow)](http://bit.ly/ryan-sof)
