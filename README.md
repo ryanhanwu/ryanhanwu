@@ -7,6 +7,12 @@ An open-source developer and passionate technical leader.
 [![TechStack](https://img.shields.io/badge/Tech-Stack-brightgreen)](https://bit.ly/ryan-stack) 
 [![Professional Scrum Master](https://img.shields.io/badge/Scrum.org-PSM_I-blue)](https://bit.ly/ryan_scrum) 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanhanwu/ryanhanwu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanhanwu/ryanhanwu/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ryanhanwu/ryanhanwu/output/github-snake.svg" />
+</picture>
+
 <!--
 **ryanhanwu/ryanhanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://managerreadme.com/readme/ryanhanwu/rv3egu
